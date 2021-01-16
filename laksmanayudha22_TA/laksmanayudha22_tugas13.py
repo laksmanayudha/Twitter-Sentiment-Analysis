@@ -7,10 +7,10 @@ from nltk.tokenize import word_tokenize
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 
 twitter_api = {
-    'consumer_key':"yVeXYxgfpdMItTTHB7M02BiQz",
-    'consumer_secret':"d5uit1opigAvwDXdhwg6697WZmjvbb8pTq9UOLH23NInCBksM7",
-    'access_token':"1324197224310480899-PZgznTyGbXQxbgqQSwNps8ks7ddXwV",
-    'access_token_secret':"56HTxzADHWXX9OsQ60wHgGzmJcCmx2BgME5dUQ5S3iVGO"
+    'consumer_key':"",
+    'consumer_secret':"",
+    'access_token':"",
+    'access_token_secret':""
 }
 query = 'omnibus law'
 database = "laksmanayudha22_final.db"
